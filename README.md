@@ -1,3 +1,0 @@
-## Welcome to my website. 
-
-### As you can see it's under construction...
